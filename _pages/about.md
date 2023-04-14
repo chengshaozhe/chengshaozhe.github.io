@@ -11,8 +11,7 @@ redirect_from:
 About Me
 ======
 
-Welcome! I am interested in the unique nature of the human mind that underlies human rationality and intelligence. Drawing insights and methods from philosophy, psychology (cognitive, developmental, and social), and artificial intelligence, I explore the social-cognitive mechanisms as well as the origins of human intentional actions and agency.
-
+Welcome! I am interested in the unique minds that underlie human rationality and intelligence. I draw insights and methods from philosophy, psychology (cognitive, developmental, and social), and artificial intelligence to explore the social-cognitive mechanisms, as well as the origins of human intentional actions and agency.
 
 <!-- My CV can be found [here](/files/CV_shaozhe.pdf). -->
 
