@@ -30,7 +30,7 @@ Cheng, S., Zhao, M., Zhu, J., Zhou J., Shen, M., & Gao T. (2022). **Intentional 
 &nbsp;&nbsp;&nbsp;This paper proposes a computational model of intention based on the internalized theory of mind hypothesis.
 
 
-Cheng, S., Zhao, M., Zhu, J., Zhou J., Shen, M., & Gao T. (2022, July 1). **The presentation of self: Exploring the computational and social origins of self-commitment**. *Workshop on Social Intelligence in Humans and Robots in the annual meeting of the Robotics: Science and Systems*.
+Cheng, S., Zhao, M., Zhu, J., Zhou J., Shen, M., & Gao T. (2022). **The presentation of self: Exploring the computational and social origins of self-commitment**. *Workshop on Social Intelligence in Humans and Robots in the annual meeting of the Robotics: Science and Systems*.
 **<br />**
 &nbsp;&nbsp;&nbsp;This ongoing project examines two functional hypotheses of intentional commitment: the computational constraint hypothesis and the social origin hypothesis. (An earlier version: [PDF](/files/RSS22Workshop_IntentionalCommitment_final.pdf))
 **<br />**
