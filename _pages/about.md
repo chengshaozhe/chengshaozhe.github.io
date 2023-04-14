@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+About Me
 ======
 
 Welcome! I am interested in the unique nature of the human mind that underlies human rationality and intelligence. Drawing insights and methods from philosophy, psychology (cognitive, developmental, and social), and artificial intelligence, I explore the social-cognitive mechanisms as well as the origins of human intentional actions and agency.
