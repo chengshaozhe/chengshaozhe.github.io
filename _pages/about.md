@@ -37,5 +37,5 @@ Cheng, S., Zhao, M., Zhu, J., Zhou J., Shen, M., & Gao T. (2022). **The presenta
 Zhai, S<sup>#</sup>., Cheng, S<sup>#</sup>., Moskowitz, N., Shen, M., & Gao, T. (accepted). **The development of commitment: Attention for intention**. *Child Development*.
 <br /> <sup>#</sup> joint first author
 **<br />**
-&nbsp;&nbsp;&nbsp;This paper explores the developmental origin of intentional commitment.
+&nbsp;&nbsp;&nbsp;This paper explores the developmental origin of intentional commitment. (An earlier version: [PDF](/files/Zhai Et Al_CogSci2022.pdf))
 
