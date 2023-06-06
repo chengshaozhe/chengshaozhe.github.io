@@ -20,7 +20,7 @@ Welcome! I am interested in the unique minds that underlie human rationality and
 
 Representative Papers
 ======
-Cheng, S., Zhao, M., Tang, N., Zhao, Y., Zhou J., Shen, M., & Gao T. (under review). **Intention beyond desire: Spontaneous intentional commitment regulates conflicting desires**. [PDF](/files/ChengEtAl22-IntentionBeyondDesire.pdf)
+Cheng, S., Zhao, M., Tang, N., Zhao, Y., Zhou J., Shen, M., & Gao T. (accepted). **Intention beyond desire: Spontaneous intentional commitment regulates conflicting desires**. *Cognition* [PDF](/files/ChengEtAl22-IntentionBeyondDesire.pdf)
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper establishes the phenomenon of intentional commitment and discusses the social-cognitive mechanisms underlying it.
 
@@ -34,7 +34,7 @@ Cheng, S., Zhao, M., Zhu, J., Zhou J., Shen, M., & Gao T. (2022). **The presenta
 &nbsp;&nbsp;&nbsp;This ongoing project examines two functional hypotheses of intentional commitment: the computational constraint hypothesis and the social origin hypothesis. (An earlier version: [PDF](/files/RSS22Workshop_IntentionalCommitment_final.pdf))
 **<br />**
 
-Zhai, S<sup>#</sup>., Cheng, S<sup>#</sup>., Moskowitz, N., Shen, M., & Gao, T. (accepted). **The development of commitment: Attention for intention**. *Child Development*.
+Zhai, S<sup>#</sup>., Cheng, S<sup>#</sup>., Moskowitz, N., Shen, M., & Gao, T. (in press). **The development of commitment: Attention for intention**. *Child Development*.
 <br /> <sup>#</sup> joint first author
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper explores the developmental origin of intentional commitment. (An earlier version: [PDF](/files/Zhai Et Al_CogSci2022.pdf))
