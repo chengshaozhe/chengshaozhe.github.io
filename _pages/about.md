@@ -20,7 +20,7 @@ Welcome! I am interested in the unique minds that underlie human rationality and
 
 Representative Papers
 ======
-Cheng, S., Zhao, M., Tang, N., Zhao, Y., Zhou J., Shen, M., & Gao T. (2023). **Intention beyond desire: Spontaneous intentional commitment regulates conflicting desires**. *Cognition*, 238, 105513. <https://doi.org/10.1016/j.cognition.2023.105513> [[PDF](/files/ChengEtAl_Cognition23_Intention-beyond-desire-Spontaneous-intentional-commitment-regulates-conflicting-desires)]
+Cheng, S., Zhao, M., Tang, N., Zhao, Y., Zhou J., Shen, M., & Gao T. (2023). **Intention beyond desire: Spontaneous intentional commitment regulates conflicting desires**. *Cognition*, 238, 105513. <https://doi.org/10.1016/j.cognition.2023.105513> [[PDF](/files/ChengEtAl_Cognition23_Intention-beyond-desire-Spontaneous-intentional-commitment-regulates-conflicting-desires.pdf)]
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper establishes the phenomenon of intentional commitment and discusses the social-cognitive mechanisms underlying it.
 
