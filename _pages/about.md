@@ -20,18 +20,18 @@ Welcome! I am interested in the unique minds that underlie human rationality and
 
 Representative Papers
 ======
-Cheng, S., Zhao, M., Tang, N., Zhao, Y., Zhou J., Shen, M., & Gao T. (2023). **Intention beyond desire: Spontaneous intentional commitment regulates conflicting desires**. *Cognition* [PDF](/files/Cognition23-Intention beyond desire- Spontaneous intentional commitment regulates conflicting desires.pdf)
+Cheng, S., Zhao, M., Tang, N., Zhao, Y., Zhou J., Shen, M., & Gao T. (2023). **Intention beyond desire: Spontaneous intentional commitment regulates conflicting desires**. *Cognition*, 238, 105513. https://doi.org/10.1016/j.cognition.2023.105513 [PDF](/files/ChengEtAl_Cognition23_Intention beyond desire-Spontaneous intentional commitment regulates conflicting desires)
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper establishes the phenomenon of intentional commitment and discusses the social-cognitive mechanisms underlying it.
+
+Zhai, S<sup>#</sup>., Cheng, S<sup>#</sup>., Moskowitz, N., Shen, M., & Gao, T. (2023). **The development of commitment: Attention for intention**. *Child Development*, 00, 1–9. https://doi.org/10.1111/cdev.13955 [PDF](/files/CD-2023-The development of commitment  Attention for intention.pdf)
+<br /> <sup>#</sup> joint first author
+**<br />**
+&nbsp;&nbsp;&nbsp;This paper explores the developmental origins of intentional commitment and the cognitive mechanisms underlying it.
 
 Cheng, S., Zhao, M., Zhu, J., Zhou J., Shen, M., & Gao T. (2022). **Intentional commitment through an internalized theory of mind: Acting in the eyes of an imagined observer**. In *Proceedings of the 44rd Annual Conference of the Cognitive Science Society*. [PDF](/files/CogSci22_Intentional_commitment_through_an_internalized_theory_of_mind_Final_.pdf)
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper proposes a computational model of intention based on the internalized theory of mind hypothesis.
-
-Zhai, S<sup>#</sup>., Cheng, S<sup>#</sup>., Moskowitz, N., Shen, M., & Gao, T. (in press). **The development of commitment: Attention for intention**. *Child Development*.
-<br /> <sup>#</sup> joint first author
-**<br />**
-&nbsp;&nbsp;&nbsp;This paper explores the developmental origin of intentional commitment. (An earlier version: [PDF](/files/Zhai Et Al_CogSci2022.pdf))
 
 Cheng, S., Zhao, M., Zhu, J., Zhou J., Shen, M., & Gao T. (2022). **The presentation of self: Exploring the computational and social origins of self-commitment**. *Workshop on Social Intelligence in Humans and Robots in the annual meeting of the Robotics: Science and Systems*.
 **<br />**
