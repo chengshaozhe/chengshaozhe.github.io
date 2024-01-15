@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-Welcome! I am interested in the unique minds that underlie human rationality and intelligence. I draw insights and methods from philosophy, psychology (cognitive, developmental, and social), and artificial intelligence to explore the nature and origins of human intentional actions and agency. My current focus is on the social-cognitive mechanisms of **intention** and **commitment**.
+Welcome! I am interested in the unique minds that underlie human rationality and intelligence. I draw insights and methods from philosophy, psychology (cognitive, social, and developmental), and artificial intelligence to explore the nature and origins of human intentional actions and **agency**. My current focus is on the social-cognitive mechanisms of **intention** and **commitment**.
 
 <!-- My CV can be found [here](/files/CV_shaozhe.pdf). -->
 
