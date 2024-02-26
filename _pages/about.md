@@ -28,7 +28,7 @@ Cheng, S., Zhu, J., Zhou J., Shen, M., & Gao T. (under review). Intentional comm
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper explores a social origin of spontaneous intentional commitment. We proposed a "social inner eye" hypothesis, assuming commitment in individual decision-making arises from an internalized self-presentation, transferring the audience of commitment from a real partner to an inner eye perspective. We  demonstrated how social context influences the strength, content, and timing of individual commitment.
 
-Zhai, S<sup>#</sup>., Cheng, S<sup>#</sup>., Moskowitz, N., Shen, M., & Gao, T. (2023). **The development of commitment: Attention for intention**. *Child Development*, 00, 1–9. <https://doi.org/10.1111/cdev.13955> [[PDF](/files/CD-2023-The-development-of-commitment-Attention-for-intention.pdf)]
+Zhai, S<sup>#</sup>., Cheng, S<sup>#</sup>., Moskowitz, N., Shen, M., & Gao, T. (2023). **The development of commitment: Attention for intention**. *Child Development*, 95(1), 7-15. <https://doi.org/10.1111/cdev.13955> [[PDF](/files/CD-2023-The-development-of-commitment-Attention-for-intention.pdf)]
 <br /> <sup>#</sup> joint first author
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper explores the developmental origins of intentional commitment and the cognitive mechanisms underlying it.
