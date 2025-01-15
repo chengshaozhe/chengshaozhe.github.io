@@ -33,7 +33,7 @@ Zhai, S<sup>#</sup>., Cheng, S<sup>#</sup>., Moskowitz, N., Shen, M., & Gao, T. 
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper explores the developmental origins of intentional commitment and the cognitive mechanisms underlying it.
 
-Cheng, S., Zhao, M., Zhu, J., Zhou J., Shen, M., & Gao T. (2022). **Intentional commitment through an internalized theory of mind: Acting in the eyes of an imagined observer**. In *Proceedings of the 44rd Annual Conference of the Cognitive Science Society*. [[PDF](/files/CogSci22_Intentional_commitment_through_an_internalized_theory_of_mind_Final_.pdf)]
+Cheng, S., Zhao, M., Zhu, J., Zhou J., Shen, M., & Gao T. (2022). **Intentional commitment through an internalized theory of mind: Acting in the eyes of an imagined observer**. In *Proceedings of the 44th Annual Conference of the Cognitive Science Society*. [[PDF](/files/CogSci22_Intentional_commitment_through_an_internalized_theory_of_mind_Final_.pdf)]
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper proposes a computational model of intention based on the internalized theory of mind hypothesis.
 
