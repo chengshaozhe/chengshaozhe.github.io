@@ -10,8 +10,11 @@ redirect_from:
 
 About Me
 ======
+Hi! I am a cognitive scientist using interdisciplinary approaches (philosophy, experimental psychology, computational models) to study both humans (children and adults) and artificial intelligence. I am interested in the unique minds that underlie human rationality and aim to explore the nature and origins of human intentional actions and **agency**. My current focus is on the social-cognitive mechanisms of **intention** and **commitment**.
 
-Welcome! I am interested in the unique minds that underlie human rationality and intelligence. I draw insights and methods from philosophy, psychology (cognitive, social, and developmental), and artificial intelligence to explore the nature and origins of human intentional actions and **agency**. My current focus is on the social-cognitive mechanisms of **intention** and **commitment**.
+I'm currently working as a joint-appointed postdoc in a computational cognitive science lab at UCLA ([Visual Intelligence Lab](https://taogao.comm.ucla.edu/home.html), PI: Dr. Tao Gao) and a developmental psychology lab at Duke University ([Early Childhood Cognition Lab](https://ecclabduke.com/the-team-3), PI: Dr. Tamar Kushnir).
+
+My most current project explores collaborative decision-making in children to create better artificial social agents.
 
 <!-- My CV can be found [here](/files/CV_shaozhe.pdf). -->
 
@@ -26,7 +29,7 @@ Cheng, S., Zhao, M., Tang, N., Zhao, Y., Zhou J., Shen, M., & Gao T. (2023). **I
 
 Cheng, S., Zhu, J., Zhou J., Shen, M., & Gao T. (under review). **Intentional commitment as a spontaneous presentation of self**. [[PDF](/files/UnderReview_commitment as spontaneous self-presentation.pdf)]
 **<br />**
-&nbsp;&nbsp;&nbsp;This paper explores a social origin of spontaneous intentional commitment. We proposed a "social inner eye" hypothesis, assuming commitment in individual decision-making arises from an internalized self-presentation, transferring the audience of commitment from a real partner to an inner eye perspective. We  demonstrated how social context influences the strength, content, and timing of individual commitment.
+&nbsp;&nbsp;&nbsp;This paper explores a social origin of spontaneous intentional commitment. We propose a "social inner eye" hypothesis, assuming commitment in individual decision-making arises from an internalized self-presentation, transferring the audience of commitment from a real partner to an inner eye perspective. We demonstrate how social context influences the strength, content, and timing of individual commitment.
 
 Zhai, S<sup>#</sup>., Cheng, S<sup>#</sup>., Moskowitz, N., Shen, M., & Gao, T. (2024). **The development of commitment: Attention for intention**. *Child Development*, 95(1), 7-15. <https://doi.org/10.1111/cdev.13955> [[PDF](/files/CD-2023-The-development-of-commitment-Attention-for-intention.pdf)]
 <br /> <sup>#</sup> joint first author
