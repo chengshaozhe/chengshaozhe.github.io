@@ -23,12 +23,11 @@ My most current project explores collaborative decision-making in children to cr
 
 Representative Papers
 ======
-Cheng, S., Zhu, J., Zhou J., Shen, M., & Gao T. (in press). **Spontaneous Coordination with Self-Commitment: How the Presence of Others Alters the Strength, Goal and Timing of Commitment**. *Cognition*. [[preprint-version](/files/ChengEtAl25-cognition-Accepted.pdf)]
-
 Cheng, S., Zhao, M., Tang, N., Zhao, Y., Zhou J., Shen, M., & Gao T. (2023). **Intention beyond desire: Spontaneous intentional commitment regulates conflicting desires**. *Cognition*, 238, 105513. <https://doi.org/10.1016/j.cognition.2023.105513> [[PDF](/files/ChengEtAl_Cognition23_Intention-beyond-desire-Spontaneous-intentional-commitment-regulates-conflicting-desires.pdf)]
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper establishes the phenomenon of intentional commitment and discusses the social-cognitive mechanisms underlying it.
 
+Cheng, S., Zhu, J., Zhou J., Shen, M., & Gao T. (in press). **Spontaneous Coordination with Self-Commitment: How the Presence of Others Alters the Strength, Goal and Timing of Commitment**. *Cognition*. [[preprint-version](/files/ChengEtAl25-cognition-Accepted.pdf)]
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper explores a social origin of spontaneous intentional commitment. We propose a "social inner eye" hypothesis, assuming commitment in individual decision-making arises from an internalized self-presentation, transferring the audience of commitment from a real partner to an inner eye perspective. We demonstrate how social context influences the strength, content, and timing of individual commitment.
 
