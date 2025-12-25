@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-Hi! I am a cognitive scientist using interdisciplinary approaches (philosophy, experimental psychology, computational models) to study both humans (children and adults) and artificial intelligence. I am interested in the unique minds that underlie human rationality and aim to explore the nature and origins of human intentional actions and **agency**. My current focus is on the social, cognitive, and computational mechanisms of human **intention** and **commitment** in the context of decision-making involving conflicting goals.
+Hi! I am a cognitive scientist using interdisciplinary approaches (philosophy, experimental psychology, computational models) to study both humans (children and adults) and artificial intelligence. My research interests lie broadly in exploring the unique aspects of human cognition and intelligence, especially in comparison to current AI systems and from an evolutionary perspective. My current focus is on the social, cognitive, and computational foundations of uniquely human agentic structures and behaviors, and their significance in social coordination contexts.
 
 I'm currently a postdoc collaborating with computational cognitive scientist [Tao Gao](https://taogao.comm.ucla.edu/home.html) at UCLA and with developmental psychologists [Tamar Kushnir](https://scholars.duke.edu/person/TAMAR.KUSHNIR) and [Michael Tomasello](https://scholars.duke.edu/person/michael.tomasello) at Duke University.
 
