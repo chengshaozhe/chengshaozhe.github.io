@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-Hi! I am a cognitive scientist using interdisciplinary approaches (philosophy, experimental psychology, computational models) to study both humans (children and adults) and artificial intelligence. My research interests lie broadly in exploring the unique aspects of human cognition and intelligence, especially in comparison to current AI systems and from an evolutionary perspective. My current focus is on the social, cognitive, and computational foundations of uniquely human agentic structures and behaviors, and their significance in social coordination contexts.
+Hi! I am a cognitive scientist interested in the nature and origins of the uniquely human mind and intelligence. My research draws insights and methods from philosophy, evolutionary theory, experimental psychology (cognitive, social, developmental, and computational), and artificial intelligence to investigate uniquely human agentic structures and behaviors and their significance in social coordination contexts. My recent research focuses on collaboration among humans (children and adults), AI agents (including RL- and LLM-based systems), and their interactions, with the goal of advancing more human-like and human-compatible AI systems.
 
 I'm currently a postdoc collaborating with computational cognitive scientist [Tao Gao](https://taogao.comm.ucla.edu/home.html) at UCLA and with developmental psychologists [Tamar Kushnir](https://scholars.duke.edu/person/TAMAR.KUSHNIR) and [Michael Tomasello](https://scholars.duke.edu/person/michael.tomasello) at Duke University.
 
@@ -22,6 +22,8 @@ I'm currently a postdoc collaborating with computational cognitive scientist [Ta
 
 Representative Papers
 ======
+Cheng, S., Gao T., Tomasello, M., & Kushnir, T. (under review). **The Agency Gap: Testing Human–Human and Human–AI Collaboration Using a Minimal Coordination Game.** (Abstract accepted as spotlight research talk (top 10%) at Conference on Society-Centered AI, Duke University.)
+
 Cheng, S., Zhao, M., Tang, N., Zhao, Y., Zhou J., Shen, M., & Gao T. (2023). **Intention beyond desire: Spontaneous intentional commitment regulates conflicting desires**. *Cognition*, 238, 105513. <https://doi.org/10.1016/j.cognition.2023.105513> [[PDF](/files/ChengEtAl_Cognition23_Intention-beyond-desire-Spontaneous-intentional-commitment-regulates-conflicting-desires.pdf)]
 **<br />**
 &nbsp;&nbsp;&nbsp;This paper establishes the phenomenon of intentional commitment and discusses the social-cognitive mechanisms underlying it.
