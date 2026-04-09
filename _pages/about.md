@@ -12,17 +12,18 @@ About Me
 ======
 Hi! I am a cognitive scientist interested in the nature and origins of the uniquely human mind and intelligence. My research draws insights and methods from philosophy, evolutionary theory, experimental psychology (cognitive, social, developmental, and computational), and artificial intelligence to investigate uniquely human agentic structures and behaviors and their significance in social coordination contexts. My recent research focuses on collaboration among humans (children and adults), AI agents (including RL- and LLM-based systems), and their interactions, with the goal of advancing more human-like and human-compatible AI systems.
 
-I'm currently a postdoc collaborating with computational cognitive scientist [Tao Gao](https://taogao.comm.ucla.edu/home.html) at UCLA and with developmental psychologists [Tamar Kushnir](https://scholars.duke.edu/person/TAMAR.KUSHNIR) and [Michael Tomasello](https://scholars.duke.edu/person/michael.tomasello) at Duke University.
+I'm currently a postdoc collaborating with psychologists [Tamar Kushnir](https://scholars.duke.edu/person/TAMAR.KUSHNIR) and [Michael Tomasello](https://scholars.duke.edu/person/michael.tomasello) at Duke University, and with computational cognitive scientist [Tao Gao](https://taogao.comm.ucla.edu/home.html) at UCLA.
 
 
 <!-- My CV can be found [here](/files/CV_shaozhe.pdf). -->
 
 <!-- Feel free to reach out! My email is [chengshaozhe@gmail.com](mailto:chengshaozhe@gmail.com). -->
 
-
 Representative Papers
 ======
-Cheng, S., Gao T., Tomasello, M., & Kushnir, T. (under review). **The Agency Gap: Testing Human–Human and Human–AI Collaboration Using a Minimal Coordination Game.** (Abstract accepted as spotlight research talk (top 10%) at Conference on Society-Centered AI, Duke University.)
+Cheng, S., Gao T., Tomasello, M., & Kushnir, T. (under review). **The Agency Gap: Testing Human–Human and Human–AI Collaboration Using a Minimal Coordination Game.** (Presented as spotlight research talk (top 10%) at *Conference on Society-Centered AI*)
+
+Cheng, S., Zhu, J., Zhou J., Shen, M., & Gao T. (under review). **Should we commit or should we switch? Goal alignment in sequential social coordination.** (6-page paper accepted as a talk (top 9.3%) at *CogSci* 2026)
 
 Cheng, S., Zhao, M., Tang, N., Zhao, Y., Zhou J., Shen, M., & Gao T. (2023). **Intention beyond desire: Spontaneous intentional commitment regulates conflicting desires**. *Cognition*, 238, 105513. <https://doi.org/10.1016/j.cognition.2023.105513> [[PDF](/files/ChengEtAl_Cognition23_Intention-beyond-desire-Spontaneous-intentional-commitment-regulates-conflicting-desires.pdf)]
 **<br />**
