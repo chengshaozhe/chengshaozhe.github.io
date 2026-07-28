@@ -44,11 +44,12 @@ Cheng, S., Zhao, M., Zhu, J., Zhou J., Shen, M., & Gao T. (2022). **Intentional 
 
 Cheng, S., Zhao, M., Zhu, J., Zhou J., Shen, M., & Gao T. (2022). **The presentation of self: Exploring the computational and social origins of self-commitment**. *Workshop on Social Intelligence in Humans and Robots in the annual meeting of the Robotics: Science and Systems 2022*.
 **<br />**
-&nbsp;&nbsp;&nbsp;This ongoing project examines two functional hypotheses of intentional commitment: the computational constraint hypothesis and the social origin hypothesis. (An earlier version: [PDF](/files/RSS22Workshop_IntentionalCommitment_final.pdf))
+&nbsp;&nbsp;&nbsp;This project examines two functional hypotheses of intentional commitment: the computational constraint hypothesis and the social origin hypothesis. (An earlier version: [PDF](/files/RSS22Workshop_IntentionalCommitment_final.pdf))
 **<br />**
 
 
-Recent Conference Posters
+Recent Conference Posters/Slides
 ======
-1. [[VSS-2025](/files/VSS-2025.pdf)]
+1. [[CogSci2026-HumanAICoordination](/files/CogSci26-AgencyGap.pdf)]
+2. [[CogSci2026-SequentialSocialDecisionMaking](/files/CogSci26-SequentialSocialDecisionMaking.pdf)]
 
