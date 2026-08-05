@@ -21,9 +21,9 @@ I'm currently a postdoc collaborating with psychologists [Tamar Kushnir](https:/
 
 Representative Papers
 ======
-Cheng, S., Gao T., Tomasello, M., & Kushnir, T. (under review). **The Agency Gap: Testing Human–Human and Human–AI Collaboration Using a Minimal Coordination Game.** (Presented as spotlight research talk (top 10%) at *Conference on Society-Centered AI*)
+Cheng, S., Gao T., Tomasello, M., & Kushnir, T. **The Agency Gap: Testing Human–Human and Human–AI Collaboration Using a Minimal Coordination Game.** *Proceedings of the 48th Annual Meeting of the Cognitive Science Society.* (Also presented as spotlight research talk [top 10%] at *Conference on Society-Centered AI*)
 
-Cheng, S., Zhu, J., Zhou J., Shen, M., & Gao T. (under review). **Should we commit or should we switch? Goal alignment in sequential social coordination.** (6-page paper accepted as a talk (top 9.3%) at *CogSci* 2026)
+Cheng, S., Zhu, J., Zhou J., Shen, M., & Gao T. **Should we commit or should we switch? Goal alignment in sequential social coordination.** *Proceedings of the 48th Annual Meeting of the Cognitive Science Society.*
 
 Cheng, S., Zhao, M., Tang, N., Zhao, Y., Zhou J., Shen, M., & Gao T. (2023). **Intention beyond desire: Spontaneous intentional commitment regulates conflicting desires**. *Cognition*, 238, 105513. <https://doi.org/10.1016/j.cognition.2023.105513> [[PDF](/files/ChengEtAl_Cognition23_Intention-beyond-desire-Spontaneous-intentional-commitment-regulates-conflicting-desires.pdf)]
 **<br />**
