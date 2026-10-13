@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-Hi! I am a cognitive scientist interested in the nature and origins of the uniquely human mind and intelligence. My research draws insights and methods from philosophy, evolutionary theory, experimental psychology (cognitive, social, developmental, and computational), and artificial intelligence to investigate uniquely human agentic structures and behaviors and their significance in social coordination contexts. My recent research focuses on collaboration among humans (children and adults), AI agents (including RL- and LLM-based systems), and their interactions, with the goal of advancing more human-like and human-compatible AI systems.
+Hi! I’m a cognitive scientist interested in the nature and origins of uniquely human minds and intelligence. My research draws on insights and methods from philosophy, evolutionary theory, experimental psychology (cognitive, social, developmental, and computational), and artificial intelligence to investigate uniquely human forms of agency and their roles in social coordination. My recent research focuses on coordination among humans (children and adults), AI agents (RL- and LLM-based), and hybrid human–AI groups, with the goal of informing the development of more human-like and human-compatible AI.
 
 I'm currently a postdoc collaborating with psychologists [Tamar Kushnir](https://scholars.duke.edu/person/TAMAR.KUSHNIR) and [Michael Tomasello](https://scholars.duke.edu/person/michael.tomasello) at Duke University, and with computational cognitive scientist [Tao Gao](https://taogao.comm.ucla.edu/home.html) at UCLA.
 
